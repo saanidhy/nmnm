@@ -1,0 +1,40 @@
+#myTopic{
+ font-style:unset;
+ color: white;
+ font-size: 80px;
+
+}
+#myBody{
+    background-image: url("rm222batch2-mind-03.jpg");
+}
+#player1{
+    background-color: white;
+    width: 400px;
+    border-radius: 15px;
+}
+#player2{
+    background-color: white;
+    width: 400px;
+    border-radius:15px;
+}
+#maindiv{
+    background-color:rgb(186, 218, 247);
+    border-radius: 15px;
+    width:500px;
+}
+#submit{
+    width: 400px;
+    height: 40px;
+    border-radius: 15px;
+    color: white ;
+}
+#p1{
+    border-radius: 5px;
+    background-color: white;
+    width: 350px;
+}
+#p2{
+    border-radius: 5px;
+    background-color: white;
+    width: 350px;
+}

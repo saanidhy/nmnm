@@ -1,0 +1,90 @@
+#body20{
+background-image: url("rm222batch2-mind-03.jpg");
+}
+#score{
+    background-color:white;
+    width: 150px;
+    height: 100px;
+    color:black;
+    border-radius: 15px;
+}
+#q{
+    background-color:rgb(186, 218, 247) ;
+    border-radius: 15px;
+    width:500px;
+    height: 300px;
+}
+#q1{
+    background-color: white;
+    color: black;
+    width: 200px;
+    border-radius: 15px;
+}
+#q2{
+    background-color: white;
+    color: black;
+    width :200px;
+    border-radius: 15px;
+}
+#question1{
+    width: 350px;
+    border-radius: 5px;
+    background-color: white;
+}
+#question2{
+    width: 350px;
+    border-radius: 5px;
+    background-color: white;
+}
+#q10{
+border-radius: 15px;
+width: 400px;
+height: 50px;
+}
+#q20{
+    border-radius: 15px;
+    width: 400px;
+    height: 50px;
+    }
+#sendq{
+    border-radius: 15px;
+    color: white;
+    width: 350px;
+    height: 40px;
+    }
+#t{
+    font-style:unset;
+    color: white;
+    font-size: 80px;
+}
+#back{
+    padding-bottom: 5px;
+    border-radius: 15px;
+    width: 350px;
+    height: 40px;
+}
+#answer{
+    width: 0px;
+    height: 0px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+}
+#hidden{
+    width: 0px;
+    height: 0px;
+    background-color:rgb(186, 218, 247) ;   
+}
+#myInput{
+    width:350px;
+    border-radius: 5px;
+    background-color: white;
+}
+#myLabel{
+font-size: 25px;
+}
+#check{
+    width: 350px;
+    color: white;
+    border-radius: 15px;
+}
